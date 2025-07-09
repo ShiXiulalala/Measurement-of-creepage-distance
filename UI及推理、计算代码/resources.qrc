@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="摄像头0">
+    <file>摄像头1.png</file>
+  </qresource>
+  <qresource prefix="摄像头1">
+    <file>摄像头2.png</file>
+  </qresource>
+  <qresource prefix="1#">
+    <file>1#.png</file>
+  </qresource>
+  <qresource prefix="2#">
+    <file>2#.png</file>
+  </qresource>
+  <qresource prefix="3#">
+    <file>3#.png</file>
+  </qresource>
+</RCC>
